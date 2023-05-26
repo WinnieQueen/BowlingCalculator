@@ -1,0 +1,15 @@
+C:\Users\Ash\Desktop\Sandbox\Console\BowlingCalculator\bin\Debug\net6.0\BowlingCalculator.exe
+C:\Users\Ash\Desktop\Sandbox\Console\BowlingCalculator\bin\Debug\net6.0\BowlingCalculator.deps.json
+C:\Users\Ash\Desktop\Sandbox\Console\BowlingCalculator\bin\Debug\net6.0\BowlingCalculator.runtimeconfig.json
+C:\Users\Ash\Desktop\Sandbox\Console\BowlingCalculator\bin\Debug\net6.0\BowlingCalculator.dll
+C:\Users\Ash\Desktop\Sandbox\Console\BowlingCalculator\bin\Debug\net6.0\BowlingCalculator.pdb
+C:\Users\Ash\Desktop\Sandbox\Console\BowlingCalculator\obj\Debug\net6.0\BowlingCalculator.csproj.AssemblyReference.cache
+C:\Users\Ash\Desktop\Sandbox\Console\BowlingCalculator\obj\Debug\net6.0\BowlingCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ash\Desktop\Sandbox\Console\BowlingCalculator\obj\Debug\net6.0\BowlingCalculator.AssemblyInfoInputs.cache
+C:\Users\Ash\Desktop\Sandbox\Console\BowlingCalculator\obj\Debug\net6.0\BowlingCalculator.AssemblyInfo.cs
+C:\Users\Ash\Desktop\Sandbox\Console\BowlingCalculator\obj\Debug\net6.0\BowlingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ash\Desktop\Sandbox\Console\BowlingCalculator\obj\Debug\net6.0\BowlingCalculator.dll
+C:\Users\Ash\Desktop\Sandbox\Console\BowlingCalculator\obj\Debug\net6.0\refint\BowlingCalculator.dll
+C:\Users\Ash\Desktop\Sandbox\Console\BowlingCalculator\obj\Debug\net6.0\BowlingCalculator.pdb
+C:\Users\Ash\Desktop\Sandbox\Console\BowlingCalculator\obj\Debug\net6.0\BowlingCalculator.genruntimeconfig.cache
+C:\Users\Ash\Desktop\Sandbox\Console\BowlingCalculator\obj\Debug\net6.0\ref\BowlingCalculator.dll
